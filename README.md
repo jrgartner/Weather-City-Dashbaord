@@ -2,6 +2,8 @@
 
 Purpose: To create a weather city dashboard that stores old cityies that were search in the local storage, calls an api, and uses bootstrap.
 
+Deployed Website: https://jrgartner.github.io/Weather-City-Dashbaord/
+
 Screenshots of deployed website:
 ![Picture of the Homescreen](./assets/images/5dayforecast.png "Forecast")
 
